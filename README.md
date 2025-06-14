@@ -82,8 +82,6 @@ python gui.py
 - **OpenCV DNN Documentation:** https://docs.opencv.org/master/d6/d0f/group__dnn.html
 - **ImageNet Dataset:** https://image-net.org/
 
----
-
 ## Acknowledgements
 
 - Based on the pioneering work by [Richard Zhang et al.](https://richzhang.github.io/colorization/)
