@@ -4,24 +4,18 @@
 
 ![Animation](https://github.com/user-attachments/assets/7e07c542-4893-482a-b058-e7b7fcd1024a)
 
----
-
 ## Project Summary
 
 This project provides a pipeline for transforming grayscale (black and white) images into vivid, plausible color photos using a deep learning model and OpenCV. It leverages a pre-trained Caffe colorization model, making it easy for anyone to enhance old photos, art, or any single-channel imagery with natural-looking color.
 
----
-
 ## Features
 
-- ⚡️ **Automatic Colorization:** Converts grayscale images to color in seconds.
-- 🧠 **Deep Learning:** Utilizes a robust CNN trained on ImageNet.
-- 🌈 **Lab Color Space:** Achieves natural results with better separation of lightness and color.
-- 🖼 **Sample Notebook:** Step-by-step Jupyter notebook included.
-- 🖥 **Simple GUI:** User-friendly desktop interface (Tkinter) for non-technical users.
-- 🛠 **Open Source:** Fully transparent and extensible.
-
----
+- **Automatic Colorization:** Converts grayscale images to color in seconds.
+- **Deep Learning:** Utilizes a robust CNN trained on ImageNet.
+- **Lab Color Space:** Achieves natural results with better separation of lightness and color.
+- **Sample Notebook:** Step-by-step Jupyter notebook included.
+- **Simple GUI:** User-friendly desktop interface (Tkinter) for non-technical users.
+- **Open Source:** Fully transparent and extensible.
 
 ## How It Works
 
@@ -30,8 +24,6 @@ This project provides a pipeline for transforming grayscale (black and white) im
 3. **Prediction:** The model predicts the missing 'a' and 'b' color channels.
 4. **Merging:** Output channels are merged back and converted to BGR/RGB.
 5. **Result:** Colorized image is saved and can be visually compared to the input.
-
----
 
 ## Quick Start
 
@@ -78,15 +70,10 @@ You can launch a simple GUI to colorize images using `gui.py`:
 python gui.py
 ```
 
----
-
-## Demo example
+## Example
 
 ![input](https://github.com/user-attachments/assets/30874300-70ae-451b-8a37-24936b66de54)
-
 ![output](https://github.com/user-attachments/assets/5d1ec791-9ff5-40c9-aa59-f7c0945b2a3f)
-
----
 
 ## References
 
