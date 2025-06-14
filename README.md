@@ -1,6 +1,4 @@
-<div class="cell markdown" id="ONf1qRd1K7J7">
-
-# Colorize Black white Image
+# AI Image Colorizer
 
 This Deep Learning Project aims to provide colorizing black & white
 images with Python.
