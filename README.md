@@ -1,4 +1,4 @@
-# AI Image Colorizer 🎨
+# AI Image Colorizer
 
 **Automatically colorize black & white images using deep learning and OpenCV.**
 
