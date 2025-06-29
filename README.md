@@ -1,6 +1,6 @@
 # AI Image Colorizer
 
-**Automatically colorize black & white images using deep learning and OpenCV.**
+**Colorize black & white images using deep learning and OpenCV.**
 
 ![Animation](https://github.com/user-attachments/assets/7e07c542-4893-482a-b058-e7b7fcd1024a)
 
